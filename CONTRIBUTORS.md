@@ -3,7 +3,7 @@
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
  - GitHub: [samflores23](https://github.com/samflores23)
 
-#### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
+#### Name: [Sath](https://github.com/deepikasunhare)
   - Place: Indore, India
 
 #### Name: [Deepika Sunhare](https://github.com/deepikasunhare)
