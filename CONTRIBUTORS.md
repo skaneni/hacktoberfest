@@ -1,4 +1,4 @@
-#### Name: [Sam Flores](https://github.com/samflores23)
+#### Name: [Sreyamsh](https://github.com/sreyamsh)
  - Place: Chicago, IL, USA
  - Bio: Programming :desktop_computer: Games :video_game: Movies :popcorn: Food :cake:		
  - GitHub: [samflores23](https://github.com/samflores23)
