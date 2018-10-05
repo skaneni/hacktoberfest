@@ -1,11 +1,4 @@
-# Will Barker
 
-### Academics
-
-- Graduated with a B.A. in Creative Industries at Ryerson University
-- Autodidact: studying programming, machine learning, and math through online resources
-
-### Interests
 
 - Machine Learning/Deep Learning 
 - Data Analysis
