@@ -1,12 +1,12 @@
-# Rajeev Kumar Singh
+# Sathwik 	
 
 ### Location
 
-Gandhinagar, Gujrat, India
+Hyderabad, Telangana, India
 
 ### Academics
 
-Undergraduate in B.Tech (Information Technology) from IIIT Vadodara College
+Undergraduate in B.Tech (Information Technology) from IIIT-H
 
 ### Interests
 
@@ -26,4 +26,5 @@ Undergraduate in B.Tech (Information Technology) from IIIT Vadodara College
 
 ### Profile Link
 
-[rajeeviiit] https://github.com/rajeeviiit
+[rajeeviiit] https://github.com/skaneni
+
